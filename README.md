@@ -1,4 +1,4 @@
-# Is ponch live?
+# Is Ponch live?
 
 This extension adds a notice in the feed of Aftonbladet.se about when Ponch is live.
 
