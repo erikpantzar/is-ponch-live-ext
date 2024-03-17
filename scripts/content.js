@@ -2,8 +2,7 @@ const CLIENT_ID = "0m9j15dbe8a715wjgeyq871rmoqe36";
 const CLIENT_SECRET = "v6ktrd7pxxiavdo199zs8lcuhz2s97";
 const endpoint = {
   oath: "https://id.twitch.tv/oauth2/token",
-  streams:
-    "https://api.twitch.tv/helix/streams?user_login=toastracktv&type=live",
+  streams: "https://api.twitch.tv/helix/streams?user_login=ponch&type=live",
   videos: "https://api.twitch.tv/helix/videos",
 };
 const PONCH_ID = "24808432";
