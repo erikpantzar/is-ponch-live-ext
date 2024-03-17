@@ -21,3 +21,14 @@ Heard Ponch reply to chat message about if his stream popped up on "AB" when he 
 ## Contact
 
 You can reach me on twitter i think https://x.com/epantzar
+
+## How to install and use the extension
+
+To get it working without the store
+
+1. Download and unpack this release
+2. Go to chrome://extensions/
+3. Enable developer mode (top right)
+4. Click "Load unpacked" and find the folder you downloaded in step 1
+5. Activate and run the extension
+6. Run over to `Aftonbladet.se` and see it in action
